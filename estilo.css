@@ -1,0 +1,23 @@
+div {
+ border: 2px solid black;
+ background-color: rgb(116, 113, 113);
+ width: 100%;
+
+
+}
+
+.titulo{
+    text-align:center;
+}
+
+.corpo{
+  background-image:url('fundo-preto.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.img {
+  display: block;   
+  margin: 0 auto;
+  width:150px;
+}
